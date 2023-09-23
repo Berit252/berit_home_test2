@@ -9,7 +9,7 @@ export default {
     ],
     root: 'src/',
     publicDir: "../public/",
-    base: './',
+    base: '/berit_home_test2/',
     server:
     {
         host: true,
